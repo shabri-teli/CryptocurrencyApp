@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">CryptocurrencyApp</string>
+
+    <string name="st_search">Search Cryptocurrency</string>
+    <string name="st_filter">Filter</string>
+    <string name="st_exchanges">Exchanges</string>
+    <string name="st_cryptocurrency">Cryptocurrency</string>
+    <string name="st_nft">NFT</string>
+
+    <string name="st_btc">BTC</string>
+    <string name="st_Bitcoin">Bitcoin</string>
+    <string name="st_top_cryptocurrencies">Top Cryptocurrencies</string>
+    <string name="st_view_all">View All</string>
+
+    <string name="st_dummy_price_text">$55,000 USD</string>
+    <string name="st_dummy_added_percent">+25%</string>
 </resources>
