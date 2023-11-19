@@ -12,6 +12,17 @@
     <string name="st_top_cryptocurrencies">Top Cryptocurrencies</string>
     <string name="st_view_all">View All</string>
 
+
+    <!--tabs-->
+    <string name="st_eShop">€-$hop</string>
+    <string name="st_exchange">Exchange</string>
+    <string name="st_launchpads">Launchpads</string>
+    <string name="st_wallet">Wallet</string>
+
+
     <string name="st_dummy_price_text">$55,000 USD</string>
     <string name="st_dummy_added_percent">+25%</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
